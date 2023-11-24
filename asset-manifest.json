@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/posenet/static/css/main.f855e6bc.css",
+    "main.js": "/posenet/static/js/main.4ec7a2b2.js",
+    "static/js/787.558ff510.chunk.js": "/posenet/static/js/787.558ff510.chunk.js",
+    "index.html": "/posenet/index.html",
+    "main.f855e6bc.css.map": "/posenet/static/css/main.f855e6bc.css.map",
+    "main.4ec7a2b2.js.map": "/posenet/static/js/main.4ec7a2b2.js.map",
+    "787.558ff510.chunk.js.map": "/posenet/static/js/787.558ff510.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.4ec7a2b2.js"
+  ]
+}
