@@ -1,6 +1,12 @@
 {
   "name": "posenet",
   "version": "0.1.0",
+  "homepage": "https://ZhalaBaghirova.github.io/PoseNet",
+  "scripts": {
+  "predeploy": "yarn build",
+  "deploy": "gh-pages -d build",
+  }
+
   "private": true,
   "dependencies": {
     "@tensorflow-models/posenet": "^2.2.2",
